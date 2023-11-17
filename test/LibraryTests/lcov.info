@@ -1,0 +1,29 @@
+SF:C:\Users\gabri\OneDrive\Escritorio\Singleton_Start_Local\Singleton_Start\src\Library\Greeter.cs
+FN:7,System.Void Library.Greeter::SayHiToTheWorld()
+FNDA:1,System.Void Library.Greeter::SayHiToTheWorld()
+DA:8,1
+DA:9,1
+DA:10,1
+LF:3
+LH:3
+BRF:0
+BRH:0
+FNF:1
+FNH:1
+end_of_record
+SF:C:\Users\gabri\OneDrive\Escritorio\Singleton_Start_Local\Singleton_Start\src\Library\Singleton.cs
+FN:11,T Library.Singleton`1::get_Instance()
+FNDA:1,T Library.Singleton`1::get_Instance()
+DA:12,1
+DA:13,1
+DA:14,1
+DA:15,1
+BRDA:13,13,0,1
+BRDA:13,13,1,1
+LF:4
+LH:4
+BRF:2
+BRH:2
+FNF:1
+FNH:1
+end_of_record
